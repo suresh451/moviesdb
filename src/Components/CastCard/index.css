@@ -1,0 +1,13 @@
+.cast-card {
+  margin: 5px;
+}
+
+.original {
+  font-weight: bold;
+  color: black;
+}
+
+.character {
+  color: grey;
+  font-size: 12px;
+}

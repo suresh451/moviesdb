@@ -1,0 +1,13 @@
+.popular-img {
+  width: 180px;
+  border-radius: 5px;
+}
+
+.list-item-home {
+  margin: 5px;
+}
+
+.home-title {
+  overflow: hidden;
+  white-space: nowrap;
+}

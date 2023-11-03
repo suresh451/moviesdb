@@ -1,0 +1,12 @@
+.title {
+  font-size: 24px;
+  color: black;
+  margin: auto;
+}
+
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
